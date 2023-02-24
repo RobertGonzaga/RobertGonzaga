@@ -2,7 +2,7 @@
 
 <p align='center'> <img src='https://media.giphy.com/media/tptFQ8QAJYYvu/giphy.gif' /> </p>
 
-- 🌱 Currently studying Computer Science
+- 🌱 Currently studying Software Engineering
 - 💬 Ask me about anything you want
 - 📫 How to reach me: robertgonzagaotop@gmail.com
 - ⚡ Fun fact: I love geek culture, games, animes and tech
