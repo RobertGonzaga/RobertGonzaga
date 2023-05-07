@@ -1,4 +1,4 @@
-### <p align ='center'>Hi there :wave: My name is Robert Gonzaga and welcome to my profile!</p>
+### <p align ='center'>Hi there :wave: My name is Robert Gonzaga</p>
 
 <p align='center'> <img src='https://media.giphy.com/media/tptFQ8QAJYYvu/giphy.gif' /> </p>
 
