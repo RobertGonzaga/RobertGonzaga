@@ -21,18 +21,25 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <a href="https://github.com/RobertGonzaga">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RobertGonzaga&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertGonzaga&layout=compact&theme=midnight-purple"/>
-  </a>
-</div>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RobertGonzaga&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RobertGonzaga&layout=compact&theme=midnight-purple"/>
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RobertGonzaga&theme=midnight-purple"/>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -45,7 +52,7 @@
 
 ### 📫 Contact
 
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/nk_robinho" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
